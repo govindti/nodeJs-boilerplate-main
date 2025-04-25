@@ -28,8 +28,8 @@ Ensure you have the following installed on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/govindti/nodeJs-boilerplate-main.git](https://github.com/govindti/nodeJs-boilerplate-main.git)
-   cd yourrepo
+   git clone https://github.com/govindti/nodeJs-boilerplate-main.git
+   cd nodeJs-boilerplate-main
    ```
 
 2. Install the dependencies:
